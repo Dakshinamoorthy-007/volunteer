@@ -1,0 +1,159 @@
+.text1{
+    position: relative;
+    bottom:65px;
+    left:20px;
+    display: inline-flex;
+    align-items: center;
+    font-size:22px
+
+}
+hr{
+    position:relative;
+    bottom:20px;
+    border-style: double;
+}
+.border2{
+    position:relative;
+    
+}
+
+.search{
+    background-color: darkorange;
+    width:1360px;
+    height:40px;
+    bottom:20px;
+    position: relative;
+ 
+}
+.keybar{
+   left:100px;
+   top:5px;
+   position: relative;
+   border-radius: 10px;
+}
+.submit{
+    position:relative;
+    left:100px;
+    top:5px;
+    padding:2px;
+    border-radius: 5px;
+}
+.home{
+    left:170px;
+    top:5px;
+    padding:2px;
+    border-radius: 5px;
+    position: relative;
+}
+.birth{
+    left:200px;
+    top:5px;
+    position: relative;
+    padding:2px;
+     border-radius: 5px;
+}
+.gov{
+    left:220px;
+    top:5px;
+    position: relative;
+    padding:2px;
+    border-radius: 5px;
+}
+.Marquee{
+    background-color: rgb(123, 230, 96);
+    width:1360px;
+    height:40px;
+    bottom:20px;
+    top:20px;
+   
+}
+.mar{
+    bottom:15px;
+    position: relative;
+   
+}
+
+.Content1{
+    background-color: rgb(204, 172, 133);
+    width:550px;
+    height:370px;
+    margin-left: 80px;
+    padding:20px;
+    top:20px;
+    border-radius: 20px;
+}
+.image{
+    margin:10px;
+    margin-bottom: 1px;
+
+}
+.Header{
+    margin-left: 10px;
+   padding-top:5px;
+    font-size:26px;
+}
+.para{
+    display: flex;
+    align-items: center;
+    position: static;
+    margin:10px;
+    padding-bottom:410px;
+}
+.learn1{
+    position: relative;
+    margin-left:100px;
+}
+
+.Content2{
+    background-color: rgb(192, 129, 53);
+    width:560px;
+    height:370px;
+    margin-left: 680px;
+    margin-top:35px;
+    bottom: 445px;
+    padding:20px;
+    position:relative;
+    border-radius: 20px;
+}
+
+.Content3{
+    background-color: rgb(192, 129, 53);
+    width:550px;
+    height:370px;
+    margin-left: 80px;
+    bottom:430px;
+    padding:20px;
+    position: relative;
+    border-radius: 20px;
+}
+
+.Content4{
+    background-color:rgb(204, 172, 133);
+    width:560px;
+    height:370px;
+    margin-left: 680px;
+    bottom: 840px;
+    padding:20px;
+    position:relative;
+    border-radius: 20px;
+}
+.apply{
+    background-color:mediumseagreen;;
+    margin-left:610px;
+    bottom:800px;
+    position: relative;
+    padding:20px;
+     border-radius: 50px;
+}
+.End1{
+    top:0px;
+    margin-bottom:2000px;
+    
+    position: relative;
+}
+
+
+body{
+    background-color:white;
+
+}
